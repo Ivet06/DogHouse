@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DogHouseFramework.Controller;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +13,14 @@ namespace DogHouseFramework
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        DogController dogsController = new DogController();
+        BreedController breedController = new BreedController();
+    
+    public Form1()
         {
             InitializeComponent();
         }
+
+
     }
 }

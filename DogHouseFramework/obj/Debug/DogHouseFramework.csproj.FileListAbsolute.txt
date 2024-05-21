@@ -1,0 +1,15 @@
+C:\Ivet11d\DogHouse\DogHouseFramework\bin\Debug\DogHouseFramework.exe.config
+C:\Ivet11d\DogHouse\DogHouseFramework\bin\Debug\DogHouseFramework.exe
+C:\Ivet11d\DogHouse\DogHouseFramework\bin\Debug\DogHouseFramework.pdb
+C:\Ivet11d\DogHouse\DogHouseFramework\bin\Debug\EntityFramework.dll
+C:\Ivet11d\DogHouse\DogHouseFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ivet11d\DogHouse\DogHouseFramework\bin\Debug\EntityFramework.xml
+C:\Ivet11d\DogHouse\DogHouseFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ivet11d\DogHouse\DogHouseFramework\obj\Debug\DogHouseFramework.csproj.AssemblyReference.cache
+C:\Ivet11d\DogHouse\DogHouseFramework\obj\Debug\DogHouseFramework.Properties.Resources.resources
+C:\Ivet11d\DogHouse\DogHouseFramework\obj\Debug\DogHouseFramework.csproj.GenerateResource.cache
+C:\Ivet11d\DogHouse\DogHouseFramework\obj\Debug\DogHouseFramework.csproj.CoreCompileInputs.cache
+C:\Ivet11d\DogHouse\DogHouseFramework\obj\Debug\DogHouse.F624ED28.Up2Date
+C:\Ivet11d\DogHouse\DogHouseFramework\obj\Debug\DogHouseFramework.exe
+C:\Ivet11d\DogHouse\DogHouseFramework\obj\Debug\DogHouseFramework.pdb
+C:\Ivet11d\DogHouse\DogHouseFramework\obj\Debug\DogHouseFramework.Migrations.InitialMigration.resources

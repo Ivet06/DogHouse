@@ -10,7 +10,7 @@ namespace DogHouseFramework.Model
 {
     public class DogDbContext: DbContext
     {
-        public DogDbContext () : base()
+        public DogDbContext() : base("DogDbContext")
         {
         }
         public DbSet<Dog> Dogs { get; set; }
